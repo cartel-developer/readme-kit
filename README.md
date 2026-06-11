@@ -15,3 +15,12 @@ X is used to Y
 ### example:
 
 This method is used to fetch data from the API.
+
+## template_3
+
+X allows you to Y
+
+### example:
+
+This package allows you to build REST APIs quickly.
+
