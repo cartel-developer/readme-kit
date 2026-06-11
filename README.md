@@ -8,4 +8,10 @@ Use X to Y
 ### example:
 Use this function to validate user input.
 
+## template_2
 
+X is used to Y
+
+### example:
+
+This method is used to fetch data from the API.
