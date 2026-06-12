@@ -31,3 +31,14 @@ If X, Y.
 ### example:
 
 If the token is invalid, the server returns a 401 response.
+
+## template_5
+
+X requires Y.
+
+### example:
+
+This endpoint requires authentication.
+
+
+
