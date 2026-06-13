@@ -40,5 +40,10 @@ X requires Y.
 
 This endpoint requires authentication.
 
+## template_6
 
+By default, X [does] Y.
 
+### example:
+
+By default, the server runs on port 3000.
