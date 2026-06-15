@@ -47,3 +47,12 @@ By default, X [does] Y.
 ### example:
 
 By default, the server runs on port 3000.
+
+## template_7
+
+Make sure to do X.
+
+### example:
+
+Make sure to set the API_KEY environment variable.
+
