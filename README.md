@@ -56,3 +56,10 @@ Make sure to do X.
 
 Make sure to set the API_KEY environment variable.
 
+## template_8
+
+It is recommended to do X.
+
+### example:
+
+It is recommended to use HTTPS in production.
