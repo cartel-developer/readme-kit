@@ -63,3 +63,11 @@ It is recommended to do X.
 ### example:
 
 It is recommended to use HTTPS in production.
+
+## template_9
+
+X improves the performance of Y.
+
+### example:
+
+The new algorithm improves the performance of image processing.
