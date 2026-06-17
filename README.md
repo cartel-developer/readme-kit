@@ -71,3 +71,11 @@ X improves the performance of Y.
 ### example:
 
 The new algorithm improves the performance of image processing.
+
+## template_10
+
+X removes Y.
+
+### example:
+
+This commit removes unused dependencies.
