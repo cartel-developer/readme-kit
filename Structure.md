@@ -1,12 +1,12 @@
 # Structure
 
+## Introduction
+
 - What the project is about
 
 - What problem it solves
 
 - The main purpose or goal
-
-## Introduction
 
 ## System Overview
 
